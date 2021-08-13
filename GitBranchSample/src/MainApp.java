@@ -5,7 +5,9 @@ public class MainApp {
 		// TODO Auto-generated method stub
 		System.out.println("1st Version");
 		//這是一個新加的的數學運算版本;
+		//再推一次
 		Math cMath = new Math();
+		System.out.println(cMath.add(10, 5));
 		System.out.println(cMath.add(10, 5));
 	}
 
